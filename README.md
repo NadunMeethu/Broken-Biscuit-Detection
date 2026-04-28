@@ -1,5 +1,4 @@
 # Broken-Biscuit-Detection
-Broken biscuit detection using classical image processing
 # Broken Biscuit Detection using Classical Image Processing Techniques
 
 ## 📌 Project Description
