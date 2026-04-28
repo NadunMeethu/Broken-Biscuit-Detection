@@ -44,16 +44,22 @@ The following features are used:
 - **Aspect Ratio** → Check square shape  
 - **Extent** → Measure shape completeness  
 
-### ▶️ How to Run
+## ▶️ How to Run
 
-3. Place your biscuit images inside:
+1. Install Python
 
+2. Install required libraries:
+pip install opencv-python numpy
+
+3. Place images inside:
 inputs/
+
 4. Run the program:
 python src/biscuit_detection.py
 
-5. Output images will be saved in:
+5. Output will be saved in:
 output_images/
+
 ## 📷 Example Output
 
 - 🟢 Green → Intact Biscuit  
