@@ -60,3 +60,8 @@ output_images/
 - 🔴 Red → Broken Biscuit  
 
 The system detects biscuits and classifies them based on shape features such as circularity and aspect ratio.
+## 📷 Sample Output
+
+**Figure: Detection result showing intact and broken circular biscuits**
+
+![Circular Biscuit Detection](output_images/result_Circular_06.jpeg)
