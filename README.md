@@ -50,5 +50,21 @@ The following features are used:
 
 2. Install required libraries:
    ```bash
-   pip install opencv-python numpy
+
+3. Place biscuit images inside:
+
+inputs/
+
+4. Run the program:
+
+python src/biscuit_detection.py
+
+5. Output images will be saved in:
+
+output_images/
+
+## Example Output
+
+- Green box = Intact Biscuit
+- Red box = Broken Biscuit
    
