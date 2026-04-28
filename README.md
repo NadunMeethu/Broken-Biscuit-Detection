@@ -44,27 +44,19 @@ The following features are used:
 - **Aspect Ratio** → Check square shape  
 - **Extent** → Measure shape completeness  
 
-## 🚀 How to Run the Code
+### ▶️ How to Run
 
-1. Install Python on your computer
-
-2. Install required libraries:
-   ```bash
-
-3. Place biscuit images inside:
+3. Place your biscuit images inside:
 
 inputs/
-
 4. Run the program:
-
 python src/biscuit_detection.py
 
 5. Output images will be saved in:
-
 output_images/
+## 📷 Example Output
 
-## Example Output
+- 🟢 Green → Intact Biscuit  
+- 🔴 Red → Broken Biscuit  
 
-- Green box = Intact Biscuit
-- Red box = Broken Biscuit
-   
+The system detects biscuits and classifies them based on shape features such as circularity and aspect ratio.
